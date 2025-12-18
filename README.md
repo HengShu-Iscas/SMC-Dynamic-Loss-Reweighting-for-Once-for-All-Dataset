@@ -1,4 +1,10 @@
 # SMC-Dynamic-Loss-Reweighting-for-Once-for-All-Dataset
+## Visualization Results
+
+### SMC
+![SMC Visualization](images/SMC_RESULTS.png)
+### MDC
+![MDC Visualization](images/MDC_RESULTS.png)
 ## Quick Start
 
 ### Installation
